@@ -1,39 +1,34 @@
 {
-   "name":"Gswap Token List",
-   "logoURI":"https://raw.githubusercontent.com/eth2pos/usdg-whitepaper/main/USDG-256.png",
-   "keywords":[
-      "verified",
-      "Gswap STO companies",
-      "USDG"
-   ],
-   "tags":{
-      "stablecoin":{
-         "name":"Stablecoin",
-         "description":"Tokens that are fixed to an external asset, e.g. the US dollar"
-      },
-       "usdg":{
-         "name":"USDG",
-         "description":"USDG is a stablecoin pegged 1:1 to USD with ETH collateral"
-      }
-   },
-   "timestamp":"2021-06-28T00:00:00+00:00",
-   "tokens":[
-      {
-         "chainId":1,
-         "address":"0xbd62253c8033f3907c0800780662eab7378a4b96",
-         "symbol":"USDG",
-         "name":"United States dollar of Galaxy",
-         "decimals":9,
-         "logoURI":"https://raw.githubusercontent.com/eth2pos/usdg-whitepaper/main/USDG-256.png",
-         "tags":[
-            "stablecoin", 
-            "usdg"
-         ]
-      }
-   ],
-   "version":{
-      "major":1,
-      "minor":0,
-      "patch":0
-   }
+  "name": "USDG Token List",
+  "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+  "keywords": [
+    "Gswap",
+    "USDG",
+    "STO"
+  ],
+  "tags": {
+    "stablecoin": {
+      "name": "Stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    }
+  },
+  "timestamp": "2020-06-12T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xbd62253c8033f3907c0800780662eab7378a4b96",
+      "symbol": "USDG",
+      "name": "United States dollar of Galaxy",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/eth2pos/usdg-whitepaper/main/USDG-256.png",
+      "tags": [
+        "stablecoin"
+      ]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
 }
