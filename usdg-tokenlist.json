@@ -24,6 +24,30 @@
          "tags":[
             "stablecoin"
          ]
+      },
+      {
+         "chainId":1,
+         "address":"0x0698dda3c390ff92722f9eed766d8b1727621df9",
+         "symbol":"ETH2POS",
+         "name":"Ethereum2Proof-of-stake",
+         "decimals":18,
+         "logoURI":"https://raw.githubusercontent.com/eth2pos/whitepaper/main/logo.png"
+      },
+      {
+         "chainId":1,
+         "address":"0xb4056171aa3ba32da1f527431383619b3802802c",
+         "symbol":"DC",
+         "name":"Dcoin",
+         "decimals":18,
+         "logoURI":"https://raw.githubusercontent.com/eth2pos/dc-whitepaper/main/DC-logo.png"
+      },
+      {
+         "chainId":1,
+         "address":"0xb3829e5755fafb97396109768895b1026acc003f",
+         "symbol":"BC",
+         "name":"Bcoin",
+         "decimals":18,
+         "logoURI":"https://raw.githubusercontent.com/eth2pos/bc-whitepaper/main/BC-logo.png"
       }
    ],
    "version":{
